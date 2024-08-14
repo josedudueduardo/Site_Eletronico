@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Smartphone Motorola Moto G24 8GB RAM Boost* 128GB Grafite",
+            "description": "Beleza em alta definição",
+            "price": 699.00,
+            "image": "https://m.media-amazon.com/images/I/51PBH2nM83L._AC_SL1200_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Xiaomi Redmi 13c Dual Sim 256 Gb Midnight Black 8gb Ram",
+            "description": "Dispositivo desbloqueado para que você escolha a companhia telefônica de sua preferência.",
+            "price": 999.99,
+            "image": "https://http2.mlstatic.com/D_NQ_NP_780144-MLA72668121499_112023-O.webp"
+        },
+        {
+            "id": 3,
+            "name": "Samsung, Smartphone Samsung Galaxy A05 128GB/4GB RAM",
+            "description": "1 Íon de lítio baterias necessárias. (inclusas)",
+            "price": 749.99,
+            "image": "https://m.media-amazon.com/images/I/51VEElKDH9L.__AC_SX300_SY300_QL70_ML2_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Apple iPhone 15 Pro Max (256 GB)",
+            "description": "Titânio natural",
+            "price": 8589.99,
+            "image": "https://m.media-amazon.com/images/I/81YSmKnlijL.__AC_SY445_SX342_QL70_ML2_.jpg"
+        }
+    ]
+}
